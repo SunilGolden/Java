@@ -1,5 +1,5 @@
 class Die {
-	public int faceValue;
+	private int faceValue;
 
 	public int getFaceValue() {
 		return faceValue;
